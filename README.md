@@ -1,3 +1,4 @@
+I have worked on building a classification model which predicts the state(successfull/unsuccessfull) of the project from the kick-starters dataset. A sample of the kick starters dataset is provided in the repository as data_sample.csv
 
 The initial part of the problem which includes data visualization, selection of model, finding accuracy etc. is in the Initial_Model Python Notebook. This Notebook creates a classification model which is stored as saved_model.sav .  
 
